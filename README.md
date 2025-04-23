@@ -1,3 +1,3 @@
 # Responsive-Bookstore-Website
 Responsive static website project
-Visit : https://jaysawant2707.github.io/Bookstore-Website/
+Visit : https://re305-7.github.io/book-store/
